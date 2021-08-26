@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: lime;
+    font-family: 'Share Tech Mono', monospace;
+}
+.container{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
